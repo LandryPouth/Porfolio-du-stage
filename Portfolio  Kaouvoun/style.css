@@ -1,0 +1,37 @@
+p{
+    font-size:  26px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    padding: 200PX;
+}
+.input{
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    margin-top: 7px;
+}
+ input{
+    border: solid 1px gray;
+    border-radius: 9px;
+    width: 39vh;
+    height: 7vh;
+    margin-left: 38px;
+    font-size: 18px;
+}
+select{
+    width: 39vh;
+    height: 7vh;
+    font-size: 18px;
+    
+}
+body{
+   flood-color: teal;
+}
